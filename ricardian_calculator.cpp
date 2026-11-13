@@ -16,6 +16,7 @@ using namespace std;
 // Ricardian Calculator
 // Terminal-based scientific calculator written in C++17.
 // This project is a standalone, single-file console application.
+// I manually wrote this program with minor assistance of ChatGPT-6.
 // ============================================================
 
 // ============================================================
